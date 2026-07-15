@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
+| [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
