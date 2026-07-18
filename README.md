@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/amanpatre30/DSA-JAVA/tree/master/0704-binary-search) |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
+| [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/amanpatre30/DSA-JAVA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Dynamic Programming
 |  |
@@ -34,8 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amanpatre30/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/amanpatre30/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/amanpatre30/DSA-JAVA/tree/master/0704-binary-search) |
+| [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/amanpatre30/DSA-JAVA/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
+## Prefix Sum
+|  |
+| ------- |
+| [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 <!---LeetCode Topics End-->
