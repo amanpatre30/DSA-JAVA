@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/amanpatre30/DSA-JAVA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 ## Geometry
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amanpatre30/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/amanpatre30/DSA-JAVA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->
