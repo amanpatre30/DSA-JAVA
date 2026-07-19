@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Math
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Geometry
 |  |
 | ------- |
