@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/amanpatre30/DSA-JAVA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/amanpatre30/DSA-JAVA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2544-alternating-digit-sum](https://github.com/amanpatre30/DSA-JAVA/tree/master/2544-alternating-digit-sum) |
 ## Geometry
 |  |
 | ------- |
