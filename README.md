@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
+| [2553-separate-the-digits-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/amanpatre30/DSA-JAVA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/amanpatre30/DSA-JAVA/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
