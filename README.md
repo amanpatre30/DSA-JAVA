@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/amanpatre30/DSA-JAVA/tree/master/0069-sqrtx) |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/amanpatre30/DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/amanpatre30/DSA-JAVA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/amanpatre30/DSA-JAVA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
