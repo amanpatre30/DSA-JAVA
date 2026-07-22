@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amanpatre30/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/amanpatre30/DSA-JAVA/tree/master/2594-minimum-time-to-repair-cars) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/amanpatre30/DSA-JAVA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/amanpatre30/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amanpatre30/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2594-minimum-time-to-repair-cars](https://github.com/amanpatre30/DSA-JAVA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Interactive
 |  |
 | ------- |
