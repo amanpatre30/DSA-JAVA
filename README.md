@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amanpatre30/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2498-frog-jump-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/amanpatre30/DSA-JAVA/tree/master/2594-minimum-time-to-repair-cars) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/amanpatre30/DSA-JAVA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/amanpatre30/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amanpatre30/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2498-frog-jump-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 | [2594-minimum-time-to-repair-cars](https://github.com/amanpatre30/DSA-JAVA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Interactive
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/amanpatre30/DSA-JAVA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+## Greedy
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
