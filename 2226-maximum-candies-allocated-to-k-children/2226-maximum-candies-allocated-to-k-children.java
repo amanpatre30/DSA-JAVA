@@ -1,20 +1,15 @@
 class Solution {
-
     // Returns the maximum pile size
     public int findMaxCandyPile(int[] candies) {
         int maxPile = Integer.MIN_VALUE;
-
         for (int pile : candies) {
             maxPile = Math.max(maxPile, pile);
         }
-
         return maxPile;
     }
-
     // Returns how many children can receive 'candiesPerChild' candies
     public long countChildrenServed(int[] candies, int candiesPerChild) {
         long childrenServed = 0;
-
         for (int pile : candies) {
             childrenServed += pile / candiesPerChild;
         }
