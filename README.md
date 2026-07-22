@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amanpatre30/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amanpatre30/DSA-JAVA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/amanpatre30/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/amanpatre30/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amanpatre30/DSA-JAVA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/amanpatre30/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 ## Interactive
 |  |
