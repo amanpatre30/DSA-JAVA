@@ -1,28 +1,29 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        int n = nums.length;
-        ArrayList<Integer> evenList = new ArrayList<>();
-        ArrayList<Integer> oddList = new ArrayList<>();
-        int ans[] = new int[n];
-        if(nums.length == 1){
-            return nums;
-        }
-        for(int num : nums){
-            if(num % 2 == 0){
-                evenList.add(num);
-            }else{
-                oddList.add(num);
+        int left = 0;
+        int right = nums.length - 1;
+
+        // Move even numbers to the left and odd numbers to the right
+        while (left < right) {
+
+            // Left is odd and right is even -> swap
+            if (nums[left] % 2 > nums[right] % 2) {
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+            }
+
+            // Move left pointer if current number is even
+            if (nums[left] % 2 == 0) {
+                left++;
+            }
+
+            // Move right pointer if current number is odd
+            if (nums[right] % 2 == 1) {
+                right--;
             }
         }
-        int ind = 0;
-        for(int i = 0 ; i < evenList.size() ; i++){
-            ans[ind++] = evenList.get(i);
-        }
 
-        for(int i = 0 ; i < oddList.size() ; i++){
-            ans[ind++] = oddList.get(i);
-        }
-
-        return ans;
+        return nums;
     }
 }
