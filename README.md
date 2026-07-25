@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/amanpatre30/DSA-JAVA/tree/master/0069-sqrtx) |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amanpatre30/DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/amanpatre30/DSA-JAVA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/amanpatre30/DSA-JAVA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 ## Prefix Sum
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/amanpatre30/DSA-JAVA/tree/master/0605-can-place-flowers) |
+| [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2498-frog-jump-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 ## Two Pointers
 |  |
