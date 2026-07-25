@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
+| [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amanpatre30/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
 ## Union-Find
 |  |
 | ------- |
@@ -133,4 +135,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
