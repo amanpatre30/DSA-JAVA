@@ -1,23 +1,33 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        // Arrays to store the last seen positions of characters in s and t
-        int[] m1 = new int[256], m2 = new int[256];
-        
-        // Length of the string
         int n = s.length();
-        
-        // Iterate through each character in the strings
-        for (int i = 0; i < n; ++i) {
-            // If the last seen positions of the current characters don't match, return false
-            if (m1[s.charAt(i)] != m2[t.charAt(i)]) return false;
-            
-            // Update the last seen positions
-            m1[s.charAt(i)] = i + 1;
-            m2[t.charAt(i)] = i + 1;
+        int m = t.length();
+
+        if(n != m){
+            return false;
         }
-        
-        // If all characters match, return true
+
+        HashMap<Character, Character> mapST = new HashMap<>();
+        HashMap<Character , Character> mapTS = new HashMap<>();
+
+
+        for(int i = 0 ; i < n ; i++){
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
+
+            if(mapST.containsKey(ch1)){
+                if(mapST.get(ch1) != ch2){
+                    return false;
+                }
+            }else if(mapTS.containsKey(ch2)){
+                if(mapTS.get(ch2) != ch1){
+                    return false;
+                }
+            }else {
+                mapST.put(ch1 , ch2);
+                mapTS.put(ch2 , ch1);
+            }
+        }
         return true;
     }
-
 }
