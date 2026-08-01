@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
