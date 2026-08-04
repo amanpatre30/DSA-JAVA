@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amanpatre30/DSA-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2295-replace-elements-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2295-replace-elements-in-an-array) |
 | [2498-frog-jump-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/amanpatre30/DSA-JAVA/tree/master/2594-minimum-time-to-repair-cars) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/amanpatre30/DSA-JAVA/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2295-replace-elements-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2295-replace-elements-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amanpatre30/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2295-replace-elements-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2295-replace-elements-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/amanpatre30/DSA-JAVA/tree/master/3731-find-missing-elements) |
 ## Union-Find
