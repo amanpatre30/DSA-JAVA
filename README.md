@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
