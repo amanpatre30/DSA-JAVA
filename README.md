@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
