@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amanpatre30/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/amanpatre30/DSA-JAVA/tree/master/0069-sqrtx) |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amanpatre30/DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amanpatre30/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amanpatre30/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amanpatre30/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amanpatre30/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/amanpatre30/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/amanpatre30/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
