@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amanpatre30/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2295-replace-elements-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2295-replace-elements-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/amanpatre30/DSA-JAVA/tree/master/3731-find-missing-elements) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
