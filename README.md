@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/amanpatre30/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanpatre30/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amanpatre30/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amanpatre30/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1002-find-common-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2295-replace-elements-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2295-replace-elements-in-an-array) |
