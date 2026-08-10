@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amanpatre30/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amanpatre30/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/amanpatre30/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/amanpatre30/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amanpatre30/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/amanpatre30/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amanpatre30/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
