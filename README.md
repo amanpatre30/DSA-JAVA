@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/amanpatre30/DSA-JAVA/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/amanpatre30/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/amanpatre30/DSA-JAVA/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/amanpatre30/DSA-JAVA/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/amanpatre30/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amanpatre30/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/amanpatre30/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/amanpatre30/DSA-JAVA/tree/master/0817-linked-list-components) |
 | [1002-find-common-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/amanpatre30/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanpatre30/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/amanpatre30/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/amanpatre30/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/amanpatre30/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
