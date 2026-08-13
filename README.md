@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/amanpatre30/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-linked-list-components](https://github.com/amanpatre30/DSA-JAVA/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
