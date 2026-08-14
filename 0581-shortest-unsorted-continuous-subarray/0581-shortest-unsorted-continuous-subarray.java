@@ -11,7 +11,8 @@ class Solution {
         for (int i = 0; i < n; i++) {
 
             while (!stack.isEmpty() && nums[stack.peek()] > nums[i]) {
-                left = Math.min(left, stack.pop());
+                int index = stack.pop();
+                left = Math.min(left, index);
             }
 
             stack.push(i);
@@ -23,7 +24,8 @@ class Solution {
         for (int i = n - 1; i >= 0; i--) {
 
             while (!stack.isEmpty() && nums[stack.peek()] < nums[i]) {
-                right = Math.max(right, stack.pop());
+                int index = stack.pop();
+                right = Math.max(right, index);
             }
 
             stack.push(i);
