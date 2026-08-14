@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/amanpatre30/DSA-JAVA/tree/master/2594-minimum-time-to-repair-cars) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/amanpatre30/DSA-JAVA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/amanpatre30/DSA-JAVA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/amanpatre30/DSA-JAVA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/2295-replace-elements-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanpatre30/DSA-JAVA/tree/master/2351-first-letter-to-appear-twice) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/amanpatre30/DSA-JAVA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/amanpatre30/DSA-JAVA/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
