@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amanpatre30/DSA-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/amanpatre30/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/amanpatre30/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/amanpatre30/DSA-JAVA/tree/master/0704-binary-search) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/amanpatre30/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2498-frog-jump-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/2498-frog-jump-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/amanpatre30/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/amanpatre30/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amanpatre30/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/amanpatre30/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/amanpatre30/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -248,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amanpatre30/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanpatre30/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
