@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amanpatre30/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/amanpatre30/DSA-JAVA/tree/master/1037-valid-boomerang) |
+| [1124-longest-well-performing-interval](https://github.com/amanpatre30/DSA-JAVA/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1920-build-array-from-permutation](https://github.com/amanpatre30/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1124-longest-well-performing-interval](https://github.com/amanpatre30/DSA-JAVA/tree/master/1124-longest-well-performing-interval) |
 | [2055-plates-between-candles](https://github.com/amanpatre30/DSA-JAVA/tree/master/2055-plates-between-candles) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/amanpatre30/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/amanpatre30/DSA-JAVA/tree/master/0817-linked-list-components) |
 | [1002-find-common-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1002-find-common-characters) |
+| [1124-longest-well-performing-interval](https://github.com/amanpatre30/DSA-JAVA/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanpatre30/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amanpatre30/DSA-JAVA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1124-longest-well-performing-interval](https://github.com/amanpatre30/DSA-JAVA/tree/master/1124-longest-well-performing-interval) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
@@ -257,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1124-longest-well-performing-interval](https://github.com/amanpatre30/DSA-JAVA/tree/master/1124-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
