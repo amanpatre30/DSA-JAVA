@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/amanpatre30/DSA-JAVA/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/amanpatre30/DSA-JAVA/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/amanpatre30/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/amanpatre30/DSA-JAVA/tree/master/2074-reverse-nodes-in-even-length-groups) |
