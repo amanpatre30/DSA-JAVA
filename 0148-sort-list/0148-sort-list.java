@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    public ListNode mergeSortedList(ListNode list1 , ListNode list2){
+    public ListNode mergeTwoList(ListNode list1 , ListNode list2){
         ListNode dummy = new ListNode(-1);
         ListNode temp = dummy;
 
@@ -23,44 +23,38 @@ class Solution {
             }
             temp = temp.next;
         }
-         // Attach remaining nodes
-        if (list1 != null) {
+
+        if(list1 != null){
             temp.next = list1;
         }
 
-        if (list2 != null) {
+        if(list2 != null){
             temp.next = list2;
         }
 
         return dummy.next;
     }
 
-    public ListNode mid(ListNode head){
-        
+    public ListNode sortList(ListNode head) {
+        if(head == null || head.next == null){
+            return head;
+        }
+        //Find middle Node
         ListNode slow = head;
         ListNode fast = head.next;
-        
+
         while(fast != null && fast.next != null){
             slow = slow.next;
             fast = fast.next.next;
         }
-        return slow;
-    }
 
-    public ListNode sortList(ListNode head) {
-        
-        if(head == null || head.next == null){
-            return head;
-        }
-
-        ListNode middle = mid(head);
         ListNode left = head;
-        ListNode right = middle.next;
-        middle.next = null;
+        ListNode right = slow.next;
+        slow.next = null;
 
         left = sortList(left);
         right = sortList(right);
 
-        return mergeSortedList(left , right);
+        return mergeTwoList(left , right);
     }
 }
