@@ -44,13 +44,15 @@ class Solution {
             }
             ListNode frontNode = kthNode.next;
             kthNode.next = null;
-            reverseList(kthNode);
+            reverseList(temp);
             if(temp == head){
                 head = kthNode;
             }else{
-                prevNode = temp;
-                prev
+               prevNode.next = kthNode;
             }
+            prevNode = temp;
+            temp = frontNode;
         }
+        return head;
     }
 }
