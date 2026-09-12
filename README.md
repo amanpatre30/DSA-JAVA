@@ -304,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/amanpatre30/DSA-JAVA/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/amanpatre30/DSA-JAVA/tree/master/0619-biggest-single-number) |
 | [1693-daily-leads-and-partners](https://github.com/amanpatre30/DSA-JAVA/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/amanpatre30/DSA-JAVA/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
