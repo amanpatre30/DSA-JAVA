@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amanpatre30/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/amanpatre30/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amanpatre30/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/amanpatre30/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/amanpatre30/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/amanpatre30/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amanpatre30/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amanpatre30/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/amanpatre30/DSA-JAVA/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/amanpatre30/DSA-JAVA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/amanpatre30/DSA-JAVA/tree/master/1890-the-latest-login-in-2020) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amanpatre30/DSA-JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
